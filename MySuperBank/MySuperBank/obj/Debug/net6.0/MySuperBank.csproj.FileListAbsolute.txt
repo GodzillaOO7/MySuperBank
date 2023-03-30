@@ -1,0 +1,15 @@
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.exe
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.deps.json
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.dll
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.pdb
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.dll
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\refint\MySuperBank.dll
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
+D:\Mine\cources\Programs\C#\MySuperBank\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
